@@ -1,3 +1,3 @@
-{{saltenv}}:
+{{ saltenv }}:
   '*':
     - common_pillar
